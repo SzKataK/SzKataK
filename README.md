@@ -1,3 +1,3 @@
 👋 Hello there
 
-📔 Computer science Student of ELTE University
+📔 Computer science student at ELTE University
