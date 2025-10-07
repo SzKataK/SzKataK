@@ -1,8 +1,6 @@
 # <div align="center">Hello there 👋</div>  
-  
 
 📓 I'm Katie, computer science student at ELTE University  
-  
 
 <br/>  
 
